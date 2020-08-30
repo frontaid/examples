@@ -3,5 +3,12 @@
   "index": {
     "title": "Index Page",
     "content": "<p>Some <strong>index</strong> content...</p>"
-  }
+  },
+  "pages": [
+    {
+      "title": "Baz Page",
+      "path": "/baz",
+      "content": "<p><strong>Baz</strong> content...</p>"
+    }
+  ]
 }
