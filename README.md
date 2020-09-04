@@ -5,4 +5,4 @@
 This repository contains example projects that are based on FrontAid CMS.
 
 ## Integrations
-* [Nuxt Content with FrontAid CMS](/frontaid/examples/tree/master/integrations/nuxt-content)
+* [Nuxt Content with FrontAid CMS](/integrations/nuxt-content)
