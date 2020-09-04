@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-content",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/content": "1.7.0",
+    "nuxt": "2.14.3"
+  }
+}
