@@ -5,4 +5,5 @@
 This repository contains example projects that are based on FrontAid CMS.
 
 ## Integrations
+* [Next.js with FrontAid CMS](/integrations/nextjs)
 * [Nuxt Content with FrontAid CMS](/integrations/nuxt-content)
