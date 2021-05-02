@@ -1,0 +1,21 @@
+{
+  ":name": "A simple FrontAid Model",
+  "name": {":type": "line"},
+  "index": {
+    "meta": {
+      "title": {":type": "text"},
+      "description": {":type": "text"}
+    },
+    "title": {":type": "text"},
+    "body": {":type": "line", ":richtext": true},
+    "items": {
+      ":items": {
+        "name": {":type": "line"}
+      }
+    }
+  },
+  "contact": {
+    "title": {":type": "text"},
+    "body": {":type": "line", ":richtext": true}
+  }
+}
